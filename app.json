@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "PK-XMD"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -63,28 +63,28 @@
     },
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "*SEEN YOUR STATUS BY PK-XMD 💜🤎🖤🤍*"
     },
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "pkdriller"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254794146821"
+      "value": "2349132095836"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "PK-XMD"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -109,7 +109,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Pkdriller*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 *"
     },
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
@@ -124,7 +124,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
@@ -164,7 +164,7 @@
     "ANTICALL": {
       "description": "Make it true if you want bot to block incoming calls.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }
   },
   "buildpacks": [
